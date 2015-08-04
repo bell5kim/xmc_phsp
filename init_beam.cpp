@@ -718,4 +718,3 @@ real beam_area(const beam_model *linac, const int i_plane, real_3 *edges)
 
    return(ZERO);
 }
-
