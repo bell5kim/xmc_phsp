@@ -35,7 +35,7 @@ class array_2d
 
       // pointer to 2d data
       type              *data;
-// End of Modified      
+// End of Modified      ----------------------------------------
       // pointer to 2d matrix
       type            **matrix;
 
